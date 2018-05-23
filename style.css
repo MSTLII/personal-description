@@ -89,6 +89,10 @@ a{
   letter-spacing: 2px;
 }
 
+.experiencelist{
+list-style:none;
+}
+
 .listteaching{
 font-family: 'Playfair Display', serif;
 color:rebeccapurple;
